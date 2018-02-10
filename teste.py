@@ -1,5 +1,5 @@
 #arquivo para aprender git
 
-lista = ["ola"]
+lista = ["ola","como","vai"]
 for var in lista:
     print(var)
